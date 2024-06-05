@@ -4,26 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "dbb94475edd72baa",
+        "id": "baa67bea56a8fe3f",
         "type": "tabs",
         "children": [
           {
-            "id": "cf40089d991497f0",
+            "id": "fd2f917392b99ae0",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
-            }
-          },
-          {
-            "id": "9879931d8edbcc83",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "Fächer.md",
-                "mode": "source",
-                "source": false
+                "file": "latexsheet.pdf"
               }
             }
           }
@@ -93,6 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "latexsheet.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -109,6 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "latexsheet.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -130,7 +122,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "latexsheet.pdf"
+              }
             }
           }
         ]
@@ -150,9 +144,34 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "cf40089d991497f0",
+  "active": "173ddb9c9415c831",
   "lastOpenFiles": [
+    "latexsheet/index.md",
+    "latexsheet.pdf",
+    "latexsheet/README.md",
+    "latexsheet/latexsheet-0.png",
+    "latexsheet/latexsheet-1.png",
+    "latexsheet/latexsheet-a4.pdf",
+    "latexsheet/latexsheet-thumb-0.png",
+    "latexsheet/latexsheet-thumb-1.png",
+    "latextesten.md",
+    "latexsheet/latexsheet.tex",
+    "latexsheet/Makefile",
+    "latexsheet",
+    "f33bcd5c52785757851db4569c09f99d/Markdown cheatsheet obsidian.md",
+    "Rechner Organisation.md",
     "Fächer.md",
+    "Obsidian.md",
+    "Bauprinzipien von cpu's.md",
+    "Use hotkeys.md",
+    "Pasted image.md",
+    "2024-05-30.md",
+    "Embed files.md",
+    "Fragen.md",
+    "Untitled 1.canvas",
+    "Untitled.canvas",
+    "Untitled",
+    "Internal link.md",
     "Wurzel.md",
     "Ast4.md",
     "Ast1.md",
