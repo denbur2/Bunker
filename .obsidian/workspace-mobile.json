@@ -11,14 +11,11 @@
             "id": "c318499147fe8fc4",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Alltag.canvas",
-                "viewState": {
-                  "x": 283.3821880010773,
-                  "y": 290.96290884753915,
-                  "zoom": -1.0976510146558494
-                }
+                "file": "wetten.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -88,7 +85,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Alltag.canvas",
+            "file": "wetten.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -105,7 +102,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Alltag.canvas",
+            "file": "wetten.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -117,7 +114,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Alltag.canvas"
+            "file": "wetten.md"
           }
         }
       }
@@ -136,10 +133,13 @@
   },
   "active": "c318499147fe8fc4",
   "lastOpenFiles": [
+    "wetten.md",
+    "Alltag.canvas",
+    "Fächer.md",
+    "Untitled",
     "Rechner Organisation.md",
     "Fragen.md",
     "Erledigungen.md",
-    "Alltag.canvas",
     "Studium.canvas",
     "Internal link.md",
     "latexsheet.pdf",
