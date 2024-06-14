@@ -1,4 +1,4 @@
 
-![[Bauprinzipien von cpu's]]
+[[Bauprinzipien von cpu's]]
 [[latextesten]]
 [[Fragen]]

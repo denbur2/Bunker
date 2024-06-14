@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "a53446b311712967",
+        "id": "03146e3138728181",
         "type": "tabs",
         "children": [
           {
-            "id": "5d1e84330da7708c",
+            "id": "c318499147fe8fc4",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -123,6 +123,20 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "64e7ec37168c2627",
-  "lastOpenFiles": []
+  "active": "c318499147fe8fc4",
+  "lastOpenFiles": [
+    "Rechner Organisation.md",
+    "Fragen.md",
+    "Erledigungen.md",
+    "Alltag.canvas",
+    "Studium.canvas",
+    "Internal link.md",
+    "latexsheet.pdf",
+    "Use hotkeys.md",
+    "Embed files.md",
+    "2024-05-30.md",
+    "Pasted image.md",
+    "Obsidian.md",
+    "latextesten.md"
+  ]
 }
