@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Erledigungen.md",
+                "file": "Lieblings Filme.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Erledigungen.md",
+            "file": "Lieblings Filme.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Erledigungen.md",
+            "file": "Lieblings Filme.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -114,7 +114,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Erledigungen.md"
+            "file": "Lieblings Filme.md"
           }
         }
       }
@@ -133,16 +133,19 @@
   },
   "active": "c318499147fe8fc4",
   "lastOpenFiles": [
-    "wetten.md",
-    "Alltag.canvas",
-    "Fächer.md",
-    "Untitled",
-    "Rechner Organisation.md",
     "Fragen.md",
     "Erledigungen.md",
+    "Fächer.md",
+    "dramatic the rock sound effect.m4a",
+    "Alltag.canvas",
+    "Bauprinzipien von cpu's.md",
+    "wetten.md",
     "Studium.canvas",
-    "Internal link.md",
     "latexsheet.pdf",
+    "Lieblings Filme.md",
+    "Untitled",
+    "Rechner Organisation.md",
+    "Internal link.md",
     "Use hotkeys.md",
     "Embed files.md",
     "2024-05-30.md",
