@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lieblings Filme.md",
+                "file": "links.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Lieblings Filme"
+              "title": "links"
             }
           }
         ],
@@ -164,6 +164,7 @@
   },
   "active": "9f3fe346e37a0545",
   "lastOpenFiles": [
+    "Lieblings Filme.md",
     "Fragen.md",
     "Fächer.md",
     "Untitled.md",
@@ -171,7 +172,6 @@
     "Untitled 1",
     "Zitate.md",
     "cabo.md",
-    "Lieblings Filme.md",
     "Erledigungen.md",
     "dramatic the rock sound effect.m4a",
     "Alltag.canvas",
