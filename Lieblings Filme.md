@@ -6,11 +6,11 @@
 6. Fight Club 
 7. Intastellar 
 8. Ratatouille
-9. 
-10. Alles steht Kopf 2
-11. Cars
+9. Alles steht Kopf 2
+10. Cars
+11. Lucky number 7
+12. Darkstar
+
 
 Not watched yet:
-1. Lucky number 7
-2. Darkstar
-3. 
+
